@@ -15,7 +15,7 @@ $(document).ready(function () {
     =========================================================================*/
     (function ($) {
         $(".typed").typed({
-            strings: ["Donna Walker.", "A Photographer.", "A Photo Editor."],
+            strings: ["Li Xue Hui", "A Programmer.", "A Code farming."],
             stringsElement: null,
             typeSpeed: 60,
             startDelay: 1000,

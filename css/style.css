@@ -262,7 +262,7 @@ section {
         4.HEADER
 ============================*/
 header {
-    width: 80px;
+    width: 100px;
     border-radius: 0 1.25rem 1.25rem 0;
     position: fixed;
     z-index: 1030;
@@ -636,7 +636,7 @@ canvas {
         color: #212121;
         border-radius: 30px;
         background: #f1f3f6;
-        box-shadow: 3px 3px 3px #e1e1e1, -3px -3px 3px #fafafa;
+        box-shadow: 3px 3px 3px #002752, -3px -3px 3px #fafafa;
     }
 
         .filters li a.active {
@@ -652,7 +652,7 @@ canvas {
     .portfolio-section .portfolio-item .image-border {
         background: #f1f3f6;
         border-radius: 1.25rem;
-        box-shadow: 3px 3px 3px #dfdfdf, -3px -3px 3px #fafafa;
+        box-shadow: 3px 3px 3px #002752, -3px -3px 3px #383D41;
         padding: 5px;
     }
 
@@ -677,7 +677,7 @@ canvas {
     transform: scale(0.8);
     transition: .5s all ease;
     border-radius: 1.25rem;
-    background-color: rgba(0,0,0,0.6)
+    background-color: rgba(0,0,0,0.5)
 }
 
 
